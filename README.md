@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,45:2563eb,100:14b8a6&text=Joey%20Yang&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=AI-native%20tools%20%7C%20Agent%20workflows%20%7C%20Local%20memory%20systems&descSize=16&descAlignY=56" alt="Joey Yang - AI-native tools, agent workflows, local memory systems" />
 
 <p>
-  <a href="https://github.com/y864261947/project-brain-studio">
+  <a href="https://github.com/elma-joey/project-brain-studio">
     <img alt="Project Brain Studio" src="https://img.shields.io/badge/Project%20Brain-Studio-2563eb?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://github.com/y864261947?tab=repositories">
+  <a href="https://github.com/elma-joey?tab=repositories">
     <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Projects-111827?style=for-the-badge&logo=github" />
   </a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Tools-14b8a6?style=for-the-badge" />
@@ -34,18 +34,18 @@
 
 ### AI Memory & Agent Workflows
 
-- [Project Brain Studio](https://github.com/y864261947/project-brain-studio) - Local memory dashboard and Codex skill package for project-specific context, MCP tools, checkpoints, and memory review.
-- [github-projects-and-articles](https://github.com/y864261947/github-projects-and-articles) - Workspace for GitHub project tracking, writing, and public technical notes.
+- [Project Brain Studio](https://github.com/elma-joey/project-brain-studio) - Local memory dashboard and Codex skill package for project-specific context, MCP tools, checkpoints, and memory review.
+- [github-projects-and-articles](https://github.com/elma-joey/github-projects-and-articles) - Workspace for GitHub project tracking, writing, and public technical notes.
 
 ### Creative AI Systems
 
-- [infinite-canvas](https://github.com/y864261947/infinite-canvas) - AI creative canvas for image/video generation, prompt workflows, reference editing, and multi-agent creation.
-- [ppt-master](https://github.com/y864261947/ppt-master) - AI-driven SVG and presentation generation system.
+- [infinite-canvas](https://github.com/elma-joey/infinite-canvas) - AI creative canvas for image/video generation, prompt workflows, reference editing, and multi-agent creation.
+- [ppt-master](https://github.com/elma-joey/ppt-master) - AI-driven SVG and presentation generation system.
 
 ### Developer Tools
 
-- [v2apiCodeHub](https://github.com/y864261947/v2apiCodeHub) - TypeScript tooling and API workspace for building and organizing development utilities.
-- [opencli](https://github.com/y864261947/opencli) - Universal CLI hub concept for making tools discoverable and executable by agents.
+- [v2apiCodeHub](https://github.com/elma-joey/v2apiCodeHub) - TypeScript tooling and API workspace for building and organizing development utilities.
+- [opencli](https://github.com/elma-joey/opencli) - Universal CLI hub concept for making tools discoverable and executable by agents.
 
 ## Now
 
@@ -113,29 +113,29 @@ Improving   personal GitHub projects into clean, public, trackable repos
 
 <div align="center">
 
-<img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y864261947&theme=github" />
+<img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elma-joey&theme=github" />
 
 <br />
 
-<img height="165" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y864261947&theme=github" />
-<img height="165" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y864261947&theme=github" />
+<img height="165" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elma-joey&theme=github" />
+<img height="165" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elma-joey&theme=github" />
 
 <br />
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=y864261947&hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=elma-joey&hide_border=true" />
 
 </div>
 
 ## Connect
 
 <p>
-  <a href="https://github.com/y864261947">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-y864261947-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/elma-joey">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-elma-joey-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/y864261947?tab=repositories">
+  <a href="https://github.com/elma-joey?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-2563eb?style=for-the-badge" />
   </a>
-  <a href="https://github.com/y864261947/project-brain-studio">
+  <a href="https://github.com/elma-joey/project-brain-studio">
     <img alt="Project Brain" src="https://img.shields.io/badge/Project%20Brain-Open-14b8a6?style=for-the-badge" />
   </a>
 </p>
